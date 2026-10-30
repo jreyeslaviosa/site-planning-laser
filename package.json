@@ -1,0 +1,1 @@
+{"name":"site-measurements","version":"1.0.0","private":true,"type":"module","scripts":{"start":"python3 -m http.server 8080","check":"node --check app.js && node --check site-data.js && node --check artwork.js && node --check artwork-data.js"}}
